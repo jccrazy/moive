@@ -1,2 +1,2 @@
-# moive
+# movie
 movie
